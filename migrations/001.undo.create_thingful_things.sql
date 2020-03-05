@@ -1,1 +1,1 @@
-DROP TABLE IF EXISTS thingful_things;
+DROP TABLE IF EXISTS thingful_things CASCADE;
